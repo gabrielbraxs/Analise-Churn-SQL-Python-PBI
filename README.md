@@ -15,8 +15,6 @@ Extração: Os dados foram armazenados no MySQL em um esquema relacional.
 
 Processamento (ETL): Utilizei Python para conectar ao banco, tratar os dados e calcular métricas iniciais, exportando o resultado para um arquivo .csv.
 
-Visualização: No Power BI, criei indicadores chave como a Taxa de Churn, faturamento por plano e distribuição de status dos clientes.<img width="1258" height="734" alt="Screenshot_8" src="https://github.com/user-attachments/assets/e17819ff-c66c-41bf-b682-7ad2fd295536" />
-
 
 📈 Resultados e Insights
 Identificação de uma Taxa de Churn de 25%.
@@ -38,3 +36,6 @@ Execute o script SQL na pasta /database para criar o banco de dados.
 Rode o script Python na pasta /scripts para gerar o arquivo de dados tratados.
 
 Abra o arquivo .pbix na pasta /dashboard para visualizar o relatório final.
+
+<img width="1258" height="734" alt="Screenshot_8" src="https://github.com/user-attachments/assets/38ed3971-bca3-4398-be9d-c4b199258c3f" />
+
